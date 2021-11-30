@@ -42,10 +42,4 @@ const questionaire = () => {
     });
   }
   
-  
  questionaire(); 
-// rl.question('What do you think of Node.js? Two', (answer) => {
-//   answerStorage.secondOpinion = `Thank you for your valuable feedback: ${answer}`;
-
-//   rl.close();
-// });
